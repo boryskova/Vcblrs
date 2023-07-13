@@ -1,0 +1,6 @@
+local_settings.py
+.venv/
+settings.py
+Vcblrs/
+__pycache__/
+.idea/
